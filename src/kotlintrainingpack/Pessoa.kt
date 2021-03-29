@@ -1,4 +1,0 @@
-package kotlintrainingpack
-
-class Pessoa {
-}
